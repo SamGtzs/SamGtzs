@@ -1,4 +1,4 @@
-![banner](../SAMGTZS.png)
+![banner](../img/SAMGTZS.png)
 #
 Soy Samuel Gutierrez Sanchez , amante del contenido multimedia y de los videojuegos, lento para todo tipo de cosas y esta es mi pagina de Github.
 #
